@@ -1,8 +1,8 @@
 # Getting-and-Cleaning-Data
 Coursera
-run_analysis.R with text files in code for directions
-## Step 1
-# read in all of the data
+run_analysis.R with text in code for directions
+# Step 1
+## read in all of the data
 # Format in particular order: subjects, labels, everything else
 ## Step 2
 # Read in the features
